@@ -7,15 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-My name is Eleonora Giunchiglia and I am an Assistant Professor at [Imperial College London]() affiliated with [Imperial-X]() and the [Electrical and Electronic Engineering Department](). Previously, I completed my Post-doc at [TU Wien], and I obtained my PhD at the [University of Oxford]() in 2022. 
+My name is Eleonora Giunchiglia and I am an Assistant Professor at [Imperial College London](https://www.imperial.ac.uk) affiliated with [Imperial-X](https://ix.imperial.ac.uk) and the [Electrical and Electronic Engineering Department](https://www.imperial.ac.uk/electrical-engineering/). Previously, I completed my Post-doc at [TU Wien](https://www.tuwien.at/en/), and I obtained my PhD at the [University of Oxford]() in 2022. 
 
-I’m passionate about building machine learning models that are not just powerful, but *safe by-design*.
-My research blends symbolic reasoning with deep learning—--thus lying at the heart of the neurosymbolic AI field--—to create models that learn efficiently from fewer datapoints and parameters.
-I design smart ways to weave formal constraints directly into the architecture and training of neural networks. So far, I’ve explored exciting applications in hierarchical classification, autonomous driving, tabular data generation, and natural language generation—--with many more to come!
+I’m passionate about building machine learning models that are not just powerful, but safe by design—guaranteed to satisfy formally expressed requirements.
+I strongly believe that requirements encode valuable background knowledge about a problem, and that models should not only respect them, but actively exploit them to learn more efficiently from fewer datapoints and parameters.
+To this end, I develop novel techniques for embedding formal constraints directly into the architecture and training process of neural networks. So far, I’ve explored exciting applications in hierarchical classification, autonomous driving, tabular data generation, and natural language generation—with many more to come!
 
 
-
-A data-driven personal website
+News
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
