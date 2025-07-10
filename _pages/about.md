@@ -22,3 +22,4 @@ News
 - **June 2025** Our paper [TRIDENT: Temporally Restricted Inference via DFA-Enhanced Neural Traversal](https://arxiv.org/pdf/2506.09701) is now on *arxiv*
 - **March 2025** Our paper [A survey on tabular data generation: Utility, alignment, fidelity, privacy, and beyond](https://arxiv.org/pdf/2503.05954?) is now on *arxiv*
 - **February 2025** Our paper [Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints](https://arxiv.org/pdf/2502.18237?) has been accepted at ICLR 2025
+- **February 2025** Together with [Emile](https://www.emilevankrieken.com) we have given a lecture on *Learning with Constraints* at [Dagstuhl](https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25061)
