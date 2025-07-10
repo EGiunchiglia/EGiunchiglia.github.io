@@ -19,6 +19,6 @@ News
 - **November 2025** I will be giving one of the [*Frontiers in AI* talks at ECAI 2025](https://ecai2025.org/frontiers-in-ai/)
 - **July 2025** I will be giving an [invited talk at the 8th International Symposium on AI Verification](https://www.aiverification.org/2025/) in Zagreb (Croatia)
 - **July 2025** I will be giving a lecture at the [Imperial Policy Forum](https://www.imperial.ac.uk/the-forum/)
-- **June 2025** Our paper [TRIDENT: Temporally Restricted Inference via DFA-Enhanced Neural Traversal](https://arxiv.org/pdf/2506.09701) is now on arxiv
-- **March 2025** Our paper [A survey on tabular data generation: Utility, alignment, fidelity, privacy, and beyond](https://arxiv.org/pdf/2503.05954?) is now on arxiv
+- **June 2025** Our paper [TRIDENT: Temporally Restricted Inference via DFA-Enhanced Neural Traversal](https://arxiv.org/pdf/2506.09701) is now on *arxiv*
+- **March 2025** Our paper [A survey on tabular data generation: Utility, alignment, fidelity, privacy, and beyond](https://arxiv.org/pdf/2503.05954?) is now on *arxiv*
 - **February 2025** Our paper [Beyond the convexity assumption: Realistic tabular data generation under quantifier-free real linear constraints](https://arxiv.org/pdf/2502.18237?) has been accepted at ICLR 2025
