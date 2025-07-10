@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Eleonora Giunchiglia and I am an Assistant Professor at [Imperial College London](https://www.imperial.ac.uk) affiliated with [Imperial-X](https://ix.imperial.ac.uk) and the [Electrical and Electronic Engineering Department](https://www.imperial.ac.uk/electrical-engineering/). Previously, I completed my Post-doc at [TU Wien](https://www.tuwien.at/en/), and I obtained my PhD at the [University of Oxford](https://www.ox.ac.uk) in 2022. Regarding my education, I have a Bachelor in Computer Engineering and a MSc in Data Science and Engineering from the [University of Genova](https://unige.it/en) and a MSc in Computer Science from the [University of Oxford](https://www.ox.ac.uk). 
 
-I’m passionate about building machine learning models that are not just powerful, but *safe by-design**: guaranteed to satisfy formally expressed requirements.
+I’m passionate about building machine learning models that are not just powerful, but *safe by-design*: guaranteed to satisfy formally expressed requirements.
 I strongly believe that requirements encode valuable background knowledge about a problem, and that models should not only respect them, but actively exploit them to learn more efficiently from fewer datapoints and parameters.
 To this end, I develop novel techniques for embedding formal constraints directly into the architecture and training process of neural networks. So far, I’ve explored exciting applications in hierarchical classification, autonomous driving, tabular data generation, and natural language generation—with many more to come!
 
