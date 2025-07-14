@@ -36,3 +36,16 @@ Convex optimisation, constrained optimisation and Lagrange multipliers, stochast
 Probability spaces, discrete and continuous random variables, sum/product/Bayes rules, Change-of-Variable theorem, and the Gaussian distribution.
 6) **Statistics:**
 Learning form data, empirical risk minimisation, bias-variance trade off, the statistical model, maximum likelihood, Bayesian inference, posterior computation.
+
+
+Reading List
+======
+
+[D20] Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong, Mathematics for Machine Learning. Cambridge University Press, 2020.
+
+[F24] Francis Bach, Learning Theory from First Principles. MIT Press, 2024. 
+
+[M22] Kevin P. Murphy, Probabilistic Machine Learning: An Introduction. MIT Press, 2022.
+
+[B06] Christopher M. Bishop, Pattern Recognition and Machine Learning. Springer, 2006.			
+				
