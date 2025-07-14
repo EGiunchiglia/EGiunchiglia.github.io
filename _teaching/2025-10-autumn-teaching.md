@@ -36,6 +36,3 @@ Convex optimisation, constrained optimisation and Lagrange multipliers, stochast
 Probability spaces, discrete and continuous random variables, sum/product/Bayes rules, Change-of-Variable theorem, and the Gaussian distribution.
 6) **Statistics:**
 Learning form data, empirical risk minimisation, bias-variance trade off, the statistical model, maximum likelihood, Bayesian inference, posterior computation.
-
-Heading 3
-======
