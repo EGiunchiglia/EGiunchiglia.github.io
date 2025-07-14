@@ -24,17 +24,17 @@ Content
 
 This module will cover the following topics: 
 
-1. **Linear algebra:**
+- **Linear algebra:**
 Linear systems, matrices, decompositions, vector spaces and linear independence.
-2. **Geometry:**
+- **Geometry:**
 Inner products, norms, projections, distances and angles.
-3. **Calculus:**
+- **Calculus:**
 Limits, derivatives (scalar, vector and partial), chain rule, backpropagation, Taylor series, integration and the fundamental theorem of Calculus.
-4. **Optimisation:**
+- **Optimisation:**
 Convex optimisation, constrained optimisation and Lagrange multipliers, stochastic gradient descent.
-5. **Probability:** 
+- **Probability:** 
 Probability spaces, discrete and continuous random variables, sum/product/Bayes rules, Change-of-Variable theorem, and the Gaussian distribution.
-6. **Statistics:**
+- **Statistics:**
 Learning form data, empirical risk minimisation, bias-variance trade off, the statistical model, maximum likelihood, Bayesian inference, posterior computation.
 
 
