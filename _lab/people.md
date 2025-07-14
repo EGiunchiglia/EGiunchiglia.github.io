@@ -1,5 +1,5 @@
 ---
-layout: the-lab
+layout: lab
 title: People in the Lab
 sections:
   - title: Faculty
