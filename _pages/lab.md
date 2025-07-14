@@ -13,5 +13,5 @@ sections:
   - title: Visitors
     members:
       - name: Luca Andolfi
-      - image: /images/people/Luca.jpg
+        image: /images/people/Luca.jpg
 ---
