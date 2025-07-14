@@ -290,9 +290,9 @@ defaults:
   #_theLab
   - scope:
       path: ""
-      type: theLab
+      type: lab
     values:
-      layout: the-lab
+      layout: lab
       author_profile: true
       share: true
 
