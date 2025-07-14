@@ -1,6 +1,5 @@
 ---
 layout: lab
-title: People in the Lab
 sections:
   - title: Faculty
     members:
