@@ -3,7 +3,7 @@ title: "Mathematics for Machine Learning"
 collection: teaching
 type: "Graduate level course"
 permalink: /teaching/2014-spring-teaching-1
-venue: ""
+venue: "Imperial College London, I-X"
 date: 2025-09-30
 location: "London, United Kingdom"
 ---
@@ -24,17 +24,17 @@ Content
 
 This module will cover the following topics: 
 
-1) **Linear algebra:**
+1. **Linear algebra:**
 Linear systems, matrices, decompositions, vector spaces and linear independence.
-2) **Geometry:**
+2. **Geometry:**
 Inner products, norms, projections, distances and angles.
-3) **Calculus:**
+3. **Calculus:**
 Limits, derivatives (scalar, vector and partial), chain rule, backpropagation, Taylor series, integration and the fundamental theorem of Calculus.
-4) **Optimisation:**
+4. **Optimisation:**
 Convex optimisation, constrained optimisation and Lagrange multipliers, stochastic gradient descent.
-5) **Probability:** 
+5. **Probability:** 
 Probability spaces, discrete and continuous random variables, sum/product/Bayes rules, Change-of-Variable theorem, and the Gaussian distribution.
-6) **Statistics:**
+6. **Statistics:**
 Learning form data, empirical risk minimisation, bias-variance trade off, the statistical model, maximum likelihood, Bayesian inference, posterior computation.
 
 
