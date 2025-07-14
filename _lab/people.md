@@ -1,12 +1,1 @@
----
-layout: lab
-sections:
-  - title: Faculty
-    members:
-      - name: Eleonora Giunchiglia
-        image: /images/Eleonora.jpg
-  - title: PhD Students
-    members:
-      - name: Joshua Ong
-        image: /assets/images/joshua.jpg
----
+# Only to be modified if I want to include one webpage for each member of the group
