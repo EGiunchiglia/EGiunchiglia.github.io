@@ -7,7 +7,11 @@ sections:
   - title: PhD Students
     members:
       - name: Joshua Ong
-        image: /images/joshua.jpg
+        image: /images/Joshua.jpg
       - name: Lohith Konathala
         image: /images/bio-photo.jpg
+  - title: Visitors
+    members:
+      - name: Luca Andolfi
+      - image: /images/Luca.jpg
 ---
