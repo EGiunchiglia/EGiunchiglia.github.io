@@ -21,15 +21,6 @@ layout: default
     {% if page.title %}
       <meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">
     {% endif %}
-    {% if page.excerpt %}
-      <meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">
-    {% endif %}
-    {% if page.date %}
-      <meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">
-    {% endif %}
-    {% if page.modified %}
-      <meta itemprop="dateModified" content="{{ page.modified | date: "%B %d, %Y" }}">
-    {% endif %}
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
@@ -43,21 +34,7 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
-        {{ content }}
-
-        {% for section in page.sections %}
-          <div class="group-section">
-            <h2 class="section-title">{{ section.title }}</h2>
-            <div class="member-grid">
-              {% for member in section.members %}
-                <div class="member-card">
-                  <img src="{{ member.image | relative_url }}" alt="{{ member.name }}">
-                  <div class="member-name">{{ member.name }}</div>
-                </div>
-              {% endfor %}
-            </div>
-          </div>
-        {% endfor %}
+        The Lab
       </section>
 
       <footer class="page__meta">
@@ -79,35 +56,3 @@ layout: default
     {% endif %}
   </article>
 </div>
-
-<style>
-.group-section {
-  margin-bottom: 3rem;
-}
-.section-title {
-  font-size: 1.5rem;
-  border-bottom: 1px solid #eee;
-  padding-bottom: 0.4rem;
-  margin-bottom: 1rem;
-}
-.member-grid {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 1.5rem;
-}
-.member-card {
-  text-align: center;
-  width: 140px;
-}
-.member-card img {
-  width: 120px;
-  height: 120px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 2px solid #ccc;
-}
-.member-name {
-  margin-top: 0.5rem;
-  font-size: 1rem;
-}
-</style>
