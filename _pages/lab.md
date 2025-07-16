@@ -9,7 +9,7 @@ sections:
       - name: Joshua Ong
         image: /images/people/Joshua.jpg
       - name: Lohith Konathala
-        image: /images/bio-photo.jpg
+        image: /images/people/Lohith.jpeg
   - title: Visitors
     members:
       - name: Luca Andolfi
